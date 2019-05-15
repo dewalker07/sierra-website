@@ -190,7 +190,7 @@ class about extends Component {
                     <div className="row footer_widget_inner">
                         <div className="col-lg-4 col-sm-6">
                             <aside className="f_widget f_about_widget">
-                                <img src="" alt="TheWalk"></img>
+                                <img src="../img/logo.png" alt="TheWalk"></img>
                                 <p>Sector 6HSR Layout, Bengaluru, Karnataka.</p>
                             </aside>
                         </div>
@@ -231,8 +231,8 @@ class about extends Component {
                 <div className="container">
                     <div className="float-sm-left">
                         <h5>
-Copyright &copy; 2019 All rights reserved |  Diwakar
-</h5>
+                        Copyright &copy; 2019 All rights reserved |  Diwakar
+                        </h5>
                     </div>
                     <div className="float-sm-right">
                         <ul>

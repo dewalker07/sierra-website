@@ -28,7 +28,7 @@ class Home extends Component {
                                     data-type="text" 
                                     data-responsive_offset="on" 
                                     data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                    data-textalign="['left','left','left','left','left','center']">Choose a powerful <br />design for your Start-up</div>
+                                    data-textalign="['left','left','left','left','left','center']">We help startups <br />launch their products</div>
                                     
                                     <div className="tp-caption tp-resizeme secand_text" 
                                         data-x="['left','left','left','left','15','center']" 
@@ -44,7 +44,7 @@ class Home extends Component {
                                         data-responsive_offset="on"
                                         data-transform_idle="o:1;"
                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                        data-textalign="['left','left','left','left','left','center']">Get your freebie template now!
+                                        data-textalign="['left','left','left','left','left','center']">Choose a better design!
                                     </div>
                                     
                                     <div className="tp-caption tp-resizeme" 
@@ -95,7 +95,7 @@ class Home extends Component {
                                     data-type="text" 
                                     data-responsive_offset="on" 
                                     data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                    data-textalign="['left','left','left','left','left','center']">Choose a powerful <br />design for your Start-up</div>
+                                    data-textalign="['left','left','left','left','left','center']">We help startups <br />launch their products</div>
                                     
                                     <div className="tp-caption tp-resizeme secand_text" 
                                         data-x="['left','left','left','left','15','center']" 
@@ -111,7 +111,7 @@ class Home extends Component {
                                         data-responsive_offset="on"
                                         data-transform_idle="o:1;"
                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                        data-textalign="['left','left','left','left','left','center']">Get your freebie template now!
+                                        data-textalign="['left','left','left','left','left','center']">Choose a better design!
                                     </div>
                                     
                                     <div className="tp-caption tp-resizeme" 
@@ -162,7 +162,7 @@ class Home extends Component {
                                     data-type="text" 
                                     data-responsive_offset="on" 
                                     data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                    data-textalign="['left','left','left','left','left','center']">Choose a powerful <br />design for your Start-up</div>
+                                    data-textalign="['left','left','left','left','left','center']">We help startups <br />launch their products</div>
                                     
                                     <div className="tp-caption tp-resizeme secand_text" 
                                         data-x="['left','left','left','left','15','center']" 
@@ -178,7 +178,7 @@ class Home extends Component {
                                         data-responsive_offset="on"
                                         data-transform_idle="o:1;"
                                         data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                                        data-textalign="['left','left','left','left','left','center']">Get your freebie template now!
+                                        data-textalign="['left','left','left','left','left','center']">Choose a better design..!
                                     </div>
                                     
                                     <div className="tp-caption tp-resizeme" 
@@ -268,7 +268,7 @@ class Home extends Component {
                                 <div className="media">
                                     <img src="img/team/people/people-5.jpg" alt=""></img>
                                     <div className="media-body">
-                                        <h5>Chriss Turner</h5>
+                                        <h5>Diwakar</h5>
                                         <h6>CEO Enterprise</h6>
                                     </div>
                                 </div>
@@ -279,7 +279,7 @@ class Home extends Component {
                                 <div className="media">
                                     <img src="img/team/people/people-5.jpg" alt=""></img>
                                     <div className="media-body">
-                                        <h5>Chriss Turner</h5>
+                                        <h5>Diwakar</h5>
                                         <h6>CEO Enterprise</h6>
                                     </div>
                                 </div>
@@ -422,7 +422,7 @@ class Home extends Component {
                     <div className="row footer_widget_inner">
                         <div className="col-lg-4 col-sm-6">
                             <aside className="f_widget f_about_widget">
-                                <img src="" alt="TheWalk"></img>
+                                <img src="../img/logo.png" alt="TheWalk"></img>
                                 <p>Sector 6, HSR Layout, Bengaluru, Karnataka.</p>
                             </aside>
                         </div>

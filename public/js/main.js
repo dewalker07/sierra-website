@@ -20,7 +20,7 @@
             });
         };
     };
-
+    
     
     
     
@@ -175,11 +175,13 @@
 	  }
 	}
  
+    function initCounter(){
+        $('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+    }
     
-    $('.counter').counterUp({
-        delay: 10,
-        time: 1000
-    });
     
     
     /*----------------------------------------------------*/
@@ -227,7 +229,7 @@
  
     
     
-    $(document).ready(function() {
+    function videoPlayer(){
         $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
             disableOn: 700,
             type: 'iframe',
@@ -237,7 +239,7 @@
 
             fixedContentPos: false
         });
-    });
+    };
     
     /*----------------------------------------------------*/
     /*  Google map js
@@ -298,6 +300,8 @@
         shap_carousel();
         progressBarConfig ();
         home_gallery();
+        videoPlayer();
+        initCounter();
         portfolio_isotope();
     }
 
