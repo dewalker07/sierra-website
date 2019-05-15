@@ -17,7 +17,8 @@ export default class App extends Component {
     <BrowserRouter>
       <div className="App">
         <Navbar />
-        <Route path={process.env.PUBLIC_URL + '/home'} component={Home} />
+        <Home />
+//         <Route path={process.env.PUBLIC_URL + '/home'} component={Home} />
 //         <Route path={process.env.PUBLIC_URL + '/aboutus'} component={Aboutus} />
 //         <Route path={process.env.PUBLIC_URL + '/services'} component={Services} />
 //         <Route path={process.env.PUBLIC_URL + '/portfolio'} component={Portfolio} />
