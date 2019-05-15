@@ -1,6 +1,6 @@
 
 ;(function($) {
-    "use strict";
+    'use strict';
     
     var nav_offset_top = $('div').height(); 
     /*-------------------------------------------------------------------------------
@@ -243,53 +243,53 @@
     /*  Google map js
     /*----------------------------------------------------*/
     
-    function mapBox(){
-        if ( $('#mapBox1').length ){
-            var $lat = $('#mapBox1').data('lat');
-            var $lon = $('#mapBox1').data('lon');
-            var $zoom = $('#mapBox1').data('zoom');
-            var $marker = $('#mapBox1').data('marker');
-            var $info = $('#mapBox1').data('info');
-            var $markerLat = $('#mapBox1').data('mlat');
-            var $markerLon = $('#mapBox1').data('mlon');
-            var map = new GMaps({
-            el: '#mapBox1',
-            lat: $lat,
-            lng: $lon,
-            scrollwheel: false,
-            scaleControl: true,
-            streetViewControl: false,
-            panControl: true,
-            disableDoubleClickZoom: true,
-            mapTypeControl: false,
-            zoom: $zoom,
-                styles: [
-        {
-            "featureType": "administrative.country",
-            "elementType": "geometry",
-            "stylers": [
-                            {
-                                "visibility": "simplified"
-                            },
-                            {
-                                "hue": "#ff0000"
-                            }
-                        ]
-                    }
-                ]
-            });
+    // function mapBox(){
+    //     if ( $('#mapBox1').length ){
+    //         var $lat = $('#mapBox1').data('lat');
+    //         var $lon = $('#mapBox1').data('lon');
+    //         var $zoom = $('#mapBox1').data('zoom');
+    //         var $marker = $('#mapBox1').data('marker');
+    //         var $info = $('#mapBox1').data('info');
+    //         var $markerLat = $('#mapBox1').data('mlat');
+    //         var $markerLon = $('#mapBox1').data('mlon');
+    //         var map = new GMaps({
+    //         el: '#mapBox1',
+    //         lat: $lat,
+    //         lng: $lon,
+    //         scrollwheel: false,
+    //         scaleControl: true,
+    //         streetViewControl: false,
+    //         panControl: true,
+    //         disableDoubleClickZoom: true,
+    //         mapTypeControl: false,
+    //         zoom: $zoom,
+    //             styles: [
+    //     {
+    //         "featureType": "administrative.country",
+    //         "elementType": "geometry",
+    //         "stylers": [
+    //                         {
+    //                             "visibility": "simplified"
+    //                         },
+    //                         {
+    //                             "hue": "#ff0000"
+    //                         }
+    //                     ]
+    //                 }
+    //             ]
+    //         });
     
-            map.addMarker({
-                lat: $markerLat,
-                lng: $markerLon,
-                icon: $marker,    
-                infoWindow: {
-                  content: $info
-                }
-            })
-        }
+    //         map.addMarker({
+    //             lat: $markerLat,
+    //             lng: $markerLon,
+    //             icon: $marker,    
+    //             infoWindow: {
+    //               content: $info
+    //             }
+    //         })
+    //     }
 
-    }
+    // }
   
     function init() {
         navbarFixed();
@@ -299,7 +299,6 @@
         progressBarConfig ();
         home_gallery();
         portfolio_isotope();
-        mapBox();
     }
 
     $(document).ready(function(){
