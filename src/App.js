@@ -14,15 +14,15 @@ import {BrowserRouter, Route} from 'react-router-dom';
 export default class App extends Component {
   render() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <div className="App">
         <Navbar />
-        <Route path={`${process.env.PUBLIC_URL}/home`} component={Home} />
-        <Route path={`${process.env.PUBLIC_URL}/aboutus`} component={Aboutus} />
-        <Route path={`${process.env.PUBLIC_URL}/services`} component={Services} />
-        <Route path={`${process.env.PUBLIC_URL}/portfolio`} component={Portfolio} />
-        <Route path={`${process.env.PUBLIC_URL}/blog`} component={Blog} />
-        <Route path={`${process.env.PUBLIC_URL}/contact`} component={Contact} />
+        <Route path='/home' component={Home} />
+        <Route path='/aboutus' component={Aboutus} />
+        <Route path='/services' component={Services} />
+        <Route path='/portfolio' component={Portfolio} />
+        <Route path='/blog' component={Blog} />
+        <Route path='/contact' component={Contact} />
       </div>
     </BrowserRouter>
   );

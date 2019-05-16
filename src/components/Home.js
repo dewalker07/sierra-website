@@ -286,11 +286,12 @@ class Home extends Component {
                             </div>
                             <div className="item">
                                 <h4>“They are the best”</h4>
+                                
                                 <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
                                 <div className="media">
                                     <img src="img/team/people/people-5.jpg" alt=""></img>
                                     <div className="media-body">
-                                        <h5>Chriss Turner</h5>
+                                        <h5>Diwakar</h5>
                                         <h6>CEO Enterprise</h6>
                                     </div>
                                 </div>

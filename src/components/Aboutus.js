@@ -31,7 +31,7 @@ class about extends Component {
                             </div>
                             <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul.Cras ex mauris, ornare eget pretium sit amet, dignissim et turpis. Nunc nec maximus dui, vel suscipit dolor. Donec elementum velit a orci facilisis rutrum. Nam convallis vel erat id dictum. Sed ut risus in orci convallis viverra a eget nisi. Aenean pellentesque elit vitae eros dignissim ultrices. </p>
                             <div className="c_video">
-                                <a className="popup-youtube" href="https://www.youtube.com/watch?v=62QYQE6k7tg"><img src="img/icon/video-icon.png" alt=""></img>See how we work </a>
+                                <a className="popup-youtube" href="https://www.youtube.com/watch?v=OIqqC22fZfI"><img src="img/icon/video-icon.png" alt=""></img>See how we work </a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ class about extends Component {
                                     <img className="rounded-circle" src="img/testimonials/testi-2.jpg" alt=""></img>
                                 </div>
                                 <div className="media-body">
-                                    <h4>Chriss Turner</h4>
+                                    <h4>Diwakar</h4>
                                     <h5>CEO Enterprise</h5>
                                 </div>
                             </div>
