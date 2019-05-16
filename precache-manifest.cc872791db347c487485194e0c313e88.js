@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff29bccf94ea7824ae30c3bf3ce4a0fb",
+    "revision": "b3e16e762e982cb9cff9af92545b6443",
     "url": "/sierra/index.html"
   },
   {
-    "revision": "9872011a11cface60ee1",
+    "revision": "dbed1b7e49751f802f35",
     "url": "/sierra/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sierra/static/js/2.59e40c59.chunk.js"
   },
   {
-    "revision": "9872011a11cface60ee1",
-    "url": "/sierra/static/js/main.71ee5986.chunk.js"
+    "revision": "dbed1b7e49751f802f35",
+    "url": "/sierra/static/js/main.046acf6d.chunk.js"
   },
   {
     "revision": "3182cfe5f240a95e8743",
