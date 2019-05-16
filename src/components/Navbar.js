@@ -10,7 +10,7 @@ export default class Navbar extends Component {
         return ( 
             <div className="main_menu_area">
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                <a className="navbar-brand" href="/home"><img src="/img/logo.png" alt="TheWalk"></img></a>
+                <a className="navbar-brand" href="/home"><img src="./img/logo.png" alt="TheWalk"></img></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span></span>
                     <span></span>
