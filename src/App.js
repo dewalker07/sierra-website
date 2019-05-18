@@ -14,7 +14,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 export default class App extends Component {
   render() {
   return (
-    <BrowserRouter basename={'/sierra'}>
+    <BrowserRouter>
         <Navbar />
         <Switch>
         <Route path='/home' component={Home} />
@@ -28,5 +28,6 @@ export default class App extends Component {
   );
   }
 }
+
 
 
