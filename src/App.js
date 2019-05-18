@@ -17,7 +17,7 @@ export default class App extends Component {
     <BrowserRouter>
         <Navbar />
         <Switch>
-        <Route path='/home' component={Home} />
+        <Route path='/(home|)' component={Home} />
         <Route path='/aboutus' component={Aboutus} />
         <Route path='/services' component={Services} />
         <Route path='/portfolio' component={Portfolio} />
